@@ -1,0 +1,9 @@
+train: /home/yyh/Documents/yolov7/datasets/VisDrone2019/train.txt  # 6471 images
+val: /home/yyh/Documents/yolov7/datasets/VisDrone2019/val.txt  # 548 images
+#test: datasets/VisDrone2019/test.txt  # 1610 images
+
+# number of classes
+nc: 10
+
+# class names
+names: ['pedestrian', 'people', 'bicycle', 'car', 'van', 'truck', 'tricycle', 'awning-tricycle', 'bus', 'motor']

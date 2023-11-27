@@ -1,0 +1,9 @@
+train: datasets/MSAR-1.0/train2017.txt  # 19914 images
+val: datasets/MSAR-1.0/test2017.txt  # 5690 images
+#test: datasets/MSAR-1.0/test2017.txt  # 2845 images
+
+# number of classes
+nc: 4  # MSAR-1.0的类别数
+
+# class names
+names: ['ship', 'bridge', 'oil tank', 'airplane']

@@ -1,0 +1,9 @@
+train: datasets/SAR-Ship-Dataset/train2017.txt  # 30673 images
+val: datasets/SAR-Ship-Dataset/test2017.txt  # 8764 images
+# test: datasets/SAR-Ship-Dataset/test2017.txt  # 4382 images
+
+# number of classes
+nc: 1  # SAR-Ship-Dataset的类别数
+
+# class names
+names: ['ship']

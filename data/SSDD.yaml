@@ -1,0 +1,9 @@
+train: datasets/SSDD/train2017.txt  # 812 images
+val: datasets/SSDD/test2017.txt # 232 images
+#test: datasets/SSDD/test2017.txt  # 116 images
+
+# number of classes
+nc: 1  # SSDD的类别数
+
+# class names
+names: ['ship']
