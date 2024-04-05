@@ -20,20 +20,20 @@ Note: All the pre-trained ADERLNet weight links lead to a Baidu Netdisk address 
 
 |Model |size |AP <br/>(%) |AP<sup>50 <br/>(%)| AP<sup>75 <br/>(%) |FPS | Params<br>(M) |FLOPs<br>(G)| weight |
 | ------ |:---: | :---: | :---:  |:---: |:---:  | :---: | :----: | :----: |
-|ADERLNet-CW|640|0.698 |0.985 |0.855 |95.24 | 38.96 | 105.20 | [Baidu Netdisk](https://pan.baidu.com/s/1zx3k6UpUaE_mhNXlu083SS) |
-|aggregated ADERLNet-CW|640|0.684 |0.983|0.795|129.87 |37.31 | 103.80 | [Baidu Netdisk](https://pan.baidu.com/s/1zx3k6UpUaE_mhNXlu083SS) |
-|ADERLNet-CS|640|0.691|0.977|0.831|94.34|37.73 | 104.20 | [Baidu Netdisk](https://pan.baidu.com/s/1zx3k6UpUaE_mhNXlu083SS) |
-|aggregated ADERLNet-CS|640|0.679|0.976|0.811|123.46|36.89 |103.50 | [Baidu Netdisk](https://pan.baidu.com/s/1zx3k6UpUaE_mhNXlu083SS) |
+|ADERLNet-CW|640|0.698 |0.985 |0.855 |95.24 | 38.96 | 105.20 | [Baidu Netdisk]() |
+|aggregated ADERLNet-CW|640|0.684 |0.983|0.795|129.87 |37.31 | 103.80 | [Baidu Netdisk]() |
+|ADERLNet-CS|640|0.691|0.977|0.831|94.34|37.73 | 104.20 | [Baidu Netdisk]() |
+|aggregated ADERLNet-CS|640|0.679|0.976|0.811|123.46|36.89 |103.50 | [Baidu Netdisk]() |
 
 ### On MSAR-1.0
 |Model |size |AP <br/>(%) |AP<sup>50 <br/>(%)| AP<sup>75 <br/>(%) |FPS | Params<br>(M) |FLOPs<br>(G)| weight |
 | ------ |:---: | :---: | :---:  |:---: |:---:  | :---: | :----: | :----: |
-|ADERLNet-CW|640|0.644 |0.936 |0.685 |105.3 | 38.97 | 105.20 | [Baidu Netdisk](https://pan.baidu.com/s/1zx3k6UpUaE_mhNXlu083SS) |
+|ADERLNet-CW|640|0.644 |0.936 |0.685 |105.3 | 38.97 | 105.20 | [Baidu Netdisk]() |
 
 ### On SAR-Ship-Dataset
 |Model |size |AP <br/>(%) |AP<sup>50 <br/>(%)| AP<sup>75 <br/>(%) |FPS | Params<br>(M) |FLOPs<br>(G)| weight |
 | ------ |:---: | :---: | :---:  |:---: |:---:  | :---: | :----: | :----: |
-|ADERLNet-CW|640|0.656 |0.958 |0.778 |106.4 | 38.96 | 105.20 | [Baidu Netdisk](https://pan.baidu.com/s/1zx3k6UpUaE_mhNXlu083SS) |
+|ADERLNet-CW|640|0.656 |0.958 |0.778 |106.4 | 38.96 | 105.20 | [Baidu Netdisk]() |
 
 ## Quick Start
 
